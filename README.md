@@ -127,6 +127,7 @@
 
 - **[CloudConvert](https://cloudconvert.com/)**，转码神器，格式齐全的在线转码利器。
 - **[Smallpdf](https://smallpdf.com/)**，专业文档转PDF，PDF转文档神器。
+- **[Practical Web Tools](https://practicalwebtools.com/)**，1,400+ 免费浏览器工具：PDF 编辑/转换、图片/音频格式转换、200+ 计算器。全部本地处理，无需上传文件。
 - **[Canvas File Sync](https://github.com/drew-royster/canvasFileSync)**，Syncs Canvas-LMS课程文件
 
 # 📚推荐阅读
